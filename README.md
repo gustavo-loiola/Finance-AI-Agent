@@ -1,4 +1,4 @@
-# Finance-AI-Agent [*not-finished*]
+# **Finance AI Agent** [*not-finished*]
 This project is a modular and professional-grade AI agent designed to analyze financial data, provide insights into market trends, and assist with investment analysis. It leverages the **CrewAI framework** for multi-agent orchestration and integrates advanced tools for financial data fetching, sentiment analysis, and visualization.
 
 Developed as a solo project, this repository serves both educational and practical purposes to explore the intersection of artificial intelligence, finance, and investment strategies.
